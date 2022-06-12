@@ -72,7 +72,7 @@ span {
     margin-left: 50px;
     padding-left: 10px;
     background-color: burlywood;
-    border: 3px solid;
+    border: 3px white;
     box-shadow: 1px 10px 50px rgb(233, 48, 48);
     border-radius: 10%;
 
@@ -93,7 +93,7 @@ span {
 
 .vission {
     background-color: rgb(246, 217, 189);
-    border: 3px solid;
+    border: 3px white;
     padding-left: 10px;
     box-shadow: 10px 10px 50px rgb(149, 21, 21);
     border-radius: 10%;
@@ -102,7 +102,7 @@ span {
 }
 
 .goals {
-    border: 3px solid;
+    border: 3px white;
     padding-left: 10px;
     box-shadow: 10px 10px 60px rgb(192, 31, 19);
     border-radius: 10%;
